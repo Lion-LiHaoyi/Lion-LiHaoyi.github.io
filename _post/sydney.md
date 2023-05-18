@@ -1,11 +1,10 @@
-
 ---
 layout:     post   				    # 使用的布局（不需要改）
 title:      sydney 				# 标题 
 subtitle:   sydney1 #副标题
 date:       2023/5/18 				# 时间
 author:     Lion 						# 作者
-header-img: [img/post-bg-2015.jpg](https://s1.ax1x.com/2020/04/05/GDQVMR.png) 	#这篇文章标题背景图片
+header-img: https://s1.ax1x.com/2020/04/05/GDQVMR.png 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 生活
